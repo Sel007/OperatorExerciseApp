@@ -13,6 +13,13 @@ namespace OperatorExerciseConsoleUI
             //inferred typing
             var varName = "Hello";
 
+            int i = 3;
+            int j = 4;
+
+            int k = ++i * j++;
+
+            Console.WriteLine(k);
+
             var a = 17;
             var b = 4;
 
