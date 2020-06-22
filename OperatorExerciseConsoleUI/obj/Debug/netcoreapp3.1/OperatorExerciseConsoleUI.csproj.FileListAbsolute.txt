@@ -1,0 +1,13 @@
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.exe
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.deps.json
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.runtimeconfig.json
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.runtimeconfig.dev.json
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.dll
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\bin\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.pdb
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.csprojAssemblyReference.cache
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.AssemblyInfo.cs
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.dll
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.pdb
+C:\Users\Selina\Desktop\Repos\OperatorExerciseApp\OperatorExerciseConsoleUI\obj\Debug\netcoreapp3.1\OperatorExerciseConsoleUI.genruntimeconfig.cache
